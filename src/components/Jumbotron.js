@@ -8,7 +8,7 @@ const Jumbotron = () => {
         return (
             <header className="container jumbotronContainer">
             <NavigationBar />
-                <div className="jumbotronSection text-center">
+                <div className="text-center">
                 <h1 className="jumbotronOne">Andres Haayen</h1>
                     <img src="/images/me.jpg" className="image img-fluid" alt="Responsive image" />
                     <h3 className="jumbotronHeader">Javascript ◉ Front-end Developer ◉ Musician</h3>

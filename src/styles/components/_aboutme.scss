@@ -1,12 +1,11 @@
 .aboutSection{
-    background: linear-gradient(to right,#000000f3,#515253, #000000f3)!important;        
-    border-radius: 0!important;
-    margin-bottom: 0!important;
+    background: linear-gradient(to right,#000000f3,#515253, #000000f3);        
+    border-radius: 0px;
+    margin-bottom: 0px;
     padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 40px!important; 
-    padding-bottom: 50px!important;    
-    color: white!important;
+    padding-right: 40px; 
+    padding-bottom: 50px;    
+    color: white;
 }
 
 .image{
@@ -17,7 +16,8 @@
 }
 
 .display-3{
-    padding-bottom: 30px!important;
+    padding-top: 25px;
+    padding-bottom: 30px;
 }
 
 @media (max-width: 564px){
