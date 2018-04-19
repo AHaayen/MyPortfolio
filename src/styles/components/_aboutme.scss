@@ -1,0 +1,33 @@
+.aboutSection{
+    background: linear-gradient(to right,#000000f3,#515253, #000000f3)!important;        
+    border-radius: 0!important;
+    margin-bottom: 0!important;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px!important; 
+    padding-bottom: 50px!important;    
+    color: white!important;
+}
+
+.image{
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.display-3{
+    padding-bottom: 30px!important;
+}
+
+@media (max-width: 564px){
+    .aboutSection{
+        padding-left: 0px!important; 
+        padding-right: 0px!important; 
+    }
+    .p-section{
+        padding-left: 30px!important; 
+        padding-right: 30px!important; 
+    }
+   
+}

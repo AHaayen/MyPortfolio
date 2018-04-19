@@ -1,0 +1,28 @@
+.jumbotronOne{
+    font-size: 3.5rem!important;
+    font-weight: 300!important;
+    color: white!important;
+    margin-bottom: 0!important;
+    margin-top: 0px!important;
+}
+.jumbotronHeader {
+    color: white!important;
+}
+
+.jumbotronSection{
+    margin-bottom: 0!important;  
+    padding-bottom: 50px!important;  
+}
+
+.jumbotronContainer {
+    padding-left: 0!important;
+    padding-right: 0!important;
+    background: url(/images/wallpaper.jpg) no-repeat center;
+    background-size: cover!important;
+}
+
+
+@media (max-width: 422px){
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
