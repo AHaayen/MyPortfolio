@@ -1,2 +1,5 @@
 node_modules/
 public/bundle.js
+styles/components/_aboutMe.scss
+styles/components/_skills.scss
+
