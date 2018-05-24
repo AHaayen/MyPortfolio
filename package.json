@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "9.5.0"
-  },
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
